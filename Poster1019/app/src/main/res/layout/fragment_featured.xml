@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <ImageView
+            android:id="@+id/imageFeaturedMovie"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:src="@drawable/interstellar"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/featured_image_description" />
+
+        <TextView
+            android:id="@+id/textFeaturedTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:text="@string/featured_movie_name"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorTextPrimary" />
+
+        <TextView
+            android:id="@+id/textFeaturedDirector"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/featured_movie_director"
+            android:textSize="16sp"
+            android:textColor="@color/colorTextSecondary" />
+
+        <TextView
+            android:id="@+id/textFeaturedDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="@string/featured_movie_description"
+            android:textSize="17sp"
+            android:lineSpacingExtra="4dp"
+            android:textColor="@color/colorTextPrimary" />
+
+    </LinearLayout>
+
+</ScrollView>

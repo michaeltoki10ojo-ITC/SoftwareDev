@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main blue colors -->
+    <color name="colorPrimary">#0B1F3A</color>
+    <color name="colorPrimaryDark">#061426</color>
+    <color name="colorAccent">#3B82F6</color>
+
+    <!-- Text -->
+    <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="colorTextPrimary">#152238</color>
+    <color name="colorTextSecondary">#607089</color>
+
+    <!-- Light mode backgrounds -->
+    <color name="colorBackground">#F2F5F9</color>
+    <color name="colorSurface">#FFFFFFFF</color>
+
+    <!-- Ratings -->
+    <color name="colorRatingActive">#3B82F6</color>
+    <color name="colorRatingInactive">#C8D1DC</color>
+
+    <!-- Accent colors -->
+    <color name="colorAccentLight">#DCEAFF</color>
+    <color name="colorAccentSoft">#EEF5FF</color>
+    <color name="colorAccentDark">#1D5FBF</color>
+
+    <!-- Other UI colors -->
+    <color name="colorDivider">#DCE2EA</color>
+    <color name="colorBadge">#E24B4A</color>
+
+</resources>

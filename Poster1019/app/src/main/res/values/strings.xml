@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Poster1019</string>
+    <string name="add_to_watchlist">Add To Watchlist</string>
+    <string name="posters">Posters</string>
+
+    <string name="nav_main">Main Page</string>
+    <string name="nav_favorites">Favorite List</string>
+    <string name="nav_featured">Featured Movie</string>
+    <string name="nav_contact">Contact Us</string>
+
+    <string name="title_favorites">Favorite List</string>
+    <string name="title_featured">Featured Movie</string>
+    <string name="title_contact">Contact Us</string>
+
+    <string name="app_version">Version 1.0</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+
+    <string name="featured_movie_name">Interstellar</string>
+    <string name="featured_movie_director">Directed by Christopher Nolan</string>
+    <string name="featured_movie_description">Interstellar follows a group of explorers who travel through a wormhole in search of a new home for humanity. I chose this movie because I like how it combines space exploration, science, and the relationship between Cooper and his family.</string>
+    <string name="featured_image_description">Still from Interstellar</string>
+
+    <string name="about_us">About us</string>
+    <string name="company_intro">MoviePoster is a small studio that builds simple, friendly apps for discovering films from around the world. We hand-pick posters and stories so you can quickly find, and save, your next favorite movie.</string>
+
+    <string name="get_in_touch">Get in touch</string>
+    <string name="contact_email">contact@movieposter.example</string>
+    <string name="contact_email_hint">Tap to open your email app</string>
+    <string name="no_email_app">No email app found</string>
+
+    <plurals name="favorites_added">
+        <item quantity="one">Added %d movie to Favorite List</item>
+        <item quantity="other">Added %d movies to Favorite List</item>
+    </plurals>
+
+    <string name="favorites_already_added">Already in your Favorite List</string>
+
+    <plurals name="favorites_count">
+        <item quantity="one">%d movie</item>
+        <item quantity="other">%d movies</item>
+    </plurals>
+
+    <string name="favorites_empty">No favorites yet. Select posters on the main page and tap Add To Watchlist.</string>
+    <string name="remove_favorite">Remove from favorites</string>
+
+    <string name="show_my_intro">About Me</string>
+    <string name="personal_intro">I am a Computer Science student at Central Washington University and a student-athlete. I enjoy building software projects and learning more about mobile development.</string>
+
+    <string name="dark_mode">Dark Mode</string>
+</resources>

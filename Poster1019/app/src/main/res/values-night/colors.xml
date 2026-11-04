@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#111827</color>
+
+    <!-- Main dark blue colors -->
+    <color name="colorPrimary">#071426</color>
+    <color name="colorPrimaryDark">#030B15</color>
+    <color name="colorAccent">#60A5FA</color>
+
+    <!-- Text -->
+    <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="colorTextPrimary">#D8E2EF</color>
+    <color name="colorTextSecondary">#91A4BC</color>
+
+    <!-- Dark mode backgrounds -->
+    <color name="colorBackground">#09111F</color>
+    <color name="colorSurface">#111C2E</color>
+
+    <!-- Ratings -->
+    <color name="colorRatingActive">#60A5FA</color>
+    <color name="colorRatingInactive">#445269</color>
+
+    <!-- Accent colors -->
+    <color name="colorAccentLight">#18365F</color>
+    <color name="colorAccentSoft">#12263F</color>
+    <color name="colorAccentDark">#7DB7FF</color>
+
+    <!-- Other UI colors -->
+    <color name="colorDivider">#28364A</color>
+    <color name="colorBadge">#EF5350</color>
+
+</resources>
