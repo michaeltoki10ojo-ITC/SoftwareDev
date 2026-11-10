@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955544365609",
+    "project_id": "lab4firebaseauth-537b9",
+    "storage_bucket": "lab4firebaseauth-537b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955544365609:android:d21a4c3b4e02b71873ca38",
+        "android_client_info": {
+          "package_name": "com.example.signinsignupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55N8f7Bxz6--q_YuGFd8j86UqlIGOKqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

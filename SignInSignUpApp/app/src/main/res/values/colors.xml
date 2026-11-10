@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Required Lab 4 primary color -->
+    <color name="primary">#FFD83D68</color>
+    <color name="primaryDark">#FFAD2F52</color>
+
+    <color name="background">#FFFFF7FA</color>
+    <color name="surface">#FFFFFFFF</color>
+
+    <color name="textPrimary">#FF30252A</color>
+    <color name="textSecondary">#FF78676D</color>
+
+    <color name="border">#FFE6C7D1</color>
+
+</resources>

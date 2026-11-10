@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Secure Sign In</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_subtitle">Sign in to continue.</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="sign_in">Sign In</string>
+
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="create_profile">Create Your Profile</string>
+    <string name="create_profile_subtitle">Enter your information to create a new account.</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="choose_photo">Choose Profile Photo</string>
+    <string name="profile_photo">Profile photo</string>
+
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <string name="fill_all_fields">Please fill in all fields.</string>
+    <string name="select_photo">Please select a profile photo.</string>
+    <string name="invalid_email">Please enter a valid email address.</string>
+    <string name="password_short">Password must be at least 6 characters.</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+
+    <string name="account_created">Account created successfully.</string>
+    <string name="sign_in_successful">Sign in successful!</string>
+    <string name="sign_in_failed">Unable to sign in. Check your email and password.</string>
+    <string name="account_failed">Unable to create account.</string>
+
+    <string name="hello_user">Welcome!</string>
+    <string name="signed_in_as">You are signed in as:</string>
+
+    <string name="sign_out">Sign Out</string>
+
+</resources>
